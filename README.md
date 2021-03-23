@@ -10,6 +10,8 @@ Rotary Transformer，简称RoFormer，是我们自研的语言模型之一，主
 bert4keras 0.10.4
 ```
 
+参考配置：在24G显存的3090上，跑maxlen=1024，batch_size能跑到8以上。
+
 ## 下载
 - [chinese_roformer_L-12_H-768_A-12.zip](https://pan.baidu.com/s/1fiss862YsGCwf2HvU_Jm-g)(提取码：xy9x)
 
