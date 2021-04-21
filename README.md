@@ -1,3 +1,5 @@
+[[中文](https://github.com/ZhuiyiTechnology/roformer)|[English](https://github.com/ZhuiyiTechnology/roformer/blob/main/README_en.md)]
+
 # Rotary Transformer
 
 Rotary Transformer，简称RoFormer，是我们自研的语言模型之一，主要是为Transformer结构设计了新的旋转式位置编码（Rotary Position Embedding，RoPE）。RoPE具有良好的理论性质，且是目前唯一一种可以应用到线性Attention的绝对位置编码，目前来看实验结果也颇为不错。
