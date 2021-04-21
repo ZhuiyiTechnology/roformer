@@ -1,4 +1,4 @@
-[[中文](https://github.com/ZhuiyiTechnology/roformer)|[English](https://github.com/ZhuiyiTechnology/roformer/blob/main/README_en.md)]
+[[中文](https://github.com/ZhuiyiTechnology/roformer/blob/main/README_zh.md)|[English](https://github.com/ZhuiyiTechnology/roformer/blob/main/README.md)]
 
 # Rotary Transformer
 
