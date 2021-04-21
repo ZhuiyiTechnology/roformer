@@ -1,3 +1,5 @@
+[[中文](https://github.com/ZhuiyiTechnology/roformer)|[English](https://github.com/ZhuiyiTechnology/roformer/blob/main/README_en.md)]
+
 # Rotary Transformer
 
 Rotary Transformer is an MLM pre-trained language model with rotary position embedding (RoPE). The RoPE is a relative position encoding method with promise theoretical properties. The main idea is to multiply the context embeddings (q,k in the Transformer) by rotation matrices depending on the absolute position.  One can prove that the inner product of the context embeddings will become only depending on the relative position. EleutherAI also posted a [blog](https://blog.eleuther.ai/rotary-embeddings/) that contains an intuitive explanation and experiments about RoPE.
