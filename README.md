@@ -38,6 +38,7 @@ Or you can find the implementation in source code of [bert4keras](https://github
 
 - [chinese_roformer_L-12_H-768_A-12.zip](https://pan.baidu.com/s/1fiss862YsGCwf2HvU_Jm-g)(download code：xy9x)
 - [chinese_roformer_L-6_H-384_A-6.zip](https://pan.baidu.com/s/1iIXgZHHCgrYGXVRRSSCVPg)(download code：gy97)
+- [chinese_roformer-char_L-12_H-768_A-12.zip](https://pan.baidu.com/s/1Q1pq8F4Fsl6bTipUAkqeDQ)(download code：bt94)
 
 ## Other Implementations
 
