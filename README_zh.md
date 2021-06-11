@@ -19,6 +19,7 @@ bert4keras 0.10.4
 - [chinese_roformer_L-6_H-384_A-6.zip](https://pan.baidu.com/s/1iIXgZHHCgrYGXVRRSSCVPg)(提取码：gy97)
 - [chinese_roformer-char_L-12_H-768_A-12.zip](https://pan.baidu.com/s/1Q1pq8F4Fsl6bTipUAkqeDQ)(提取码：bt94)
 - [chinese_roformer-gpt-char_L-12_H-768_A-12.zip](https://pan.baidu.com/s/11YTnWLX0ThQr2P2yW0P7GA)(提取码：2nnn)
+- [chinese_roformer-sim-char_L-12_H-768_A-12.zip](https://pan.baidu.com/s/1f1FB288nv1a6jYjsNCordg)(提取码：2cgz)
 
 
 ## 其他
