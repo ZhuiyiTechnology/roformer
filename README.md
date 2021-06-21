@@ -42,6 +42,7 @@ Or you can find the implementation in source code of [bert4keras](https://github
 - [chinese_roformer-char_L-6_H-384_A-6.zip](https://pan.baidu.com/s/1cc281-M0Rsjlwws5phqzbQ)(download code：a44c)
 - [chinese_roformer-gpt-char_L-12_H-768_A-12.zip](https://pan.baidu.com/s/11YTnWLX0ThQr2P2yW0P7GA)(download code：2nnn)
 - [chinese_roformer-sim-char_L-12_H-768_A-12.zip](https://pan.baidu.com/s/1f1FB288nv1a6jYjsNCordg)(download code：2cgz)
+- [chinese_roformer-sim-char_L-6_H-384_A-6.zip](https://pan.baidu.com/s/1r0eJ7shGwQ0RzV9BTFFW4g)(download code：h68q)
 
 ## Other Implementations
 
